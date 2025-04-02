@@ -8,4 +8,5 @@
 ##### ALGORITHM=HS256
 ##### TESSERACT_PATH="PATH to Tesseract Executable"
 
-Run: python main.py
+##Run: 
+##### python main.py
